@@ -1,3 +1,3 @@
 # yandex.sprint10
-H1 (https://www.google.com "Sprint 10")
+##  https://vovainfo.github.io/yandex.sprint10/ 
 version: 0.1b
